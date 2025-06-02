@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Geonyeong Son
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
