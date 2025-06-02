@@ -102,13 +102,9 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python,C,C++
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: C,C++
-        description: ''
-        percent: 40
         icon: code-bracket
   # - name: Hobbies
   #   color: '#eeac02'
