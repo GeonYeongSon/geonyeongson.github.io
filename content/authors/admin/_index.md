@@ -48,6 +48,7 @@ profiles:
     
 interests:
   - Computational Linguistics
+  - Commonsense Reasoning
   - Human-like language understanding
   - Learning from language
 
