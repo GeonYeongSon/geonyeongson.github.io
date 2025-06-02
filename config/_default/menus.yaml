@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Publications
     # url: /#papers
-    url: publication/
+    url: /workspaces/geonyeongson.github.io/content/publication/_index.md
     weight: 11
   # - name: Talks
   #   url: /#talks
