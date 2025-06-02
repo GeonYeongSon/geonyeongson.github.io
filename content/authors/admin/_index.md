@@ -98,13 +98,13 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python,C,C++
-        description: ''
-        percent: 80
-        icon: code-bracket
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python,C,C++
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
@@ -115,11 +115,11 @@ skills:
   #       icon: football
 
 
-languages:
-  - name: Korean
-    percent: 100
-  - name: English
-    percent: 50
+# languages:
+#   - name: Korean
+#     percent: 100
+#   - name: English
+#     percent: 50
 
 
 # Awards.
