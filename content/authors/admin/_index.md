@@ -140,6 +140,6 @@ awards:
 ## About Me
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-I am a master student at Hanyang University, working with Prof. Misuk Kim. I completed my B.S. at HUFS, advised Prof. Misuk Kim. 
+I am a master student at Hanyang University, working with Prof. Misuk Kim. I completed my B.S. at Sejong University, advised Prof. Misuk Kim. 
 
 My research interests include include Computational Linguistics, Human-like language understanding, and Learning from language.
