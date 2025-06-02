@@ -48,9 +48,11 @@ profiles:
     
 interests:
   - Artificial Intelligence
+  - Computational Linguistics
   - Natural Language Processing
-  - Information Retrieval
-
+  - Human-like language understanding
+  - Learning from language
+  
 education:
   - area: MS Data Science
     institution: Hanyang University
