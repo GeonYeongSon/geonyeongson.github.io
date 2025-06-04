@@ -18,19 +18,19 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-    design:
-      css_class: dark
-      text_color: "black"      # ← 여기서 텍스트 색상을 black 으로 설정
-      background:
-        color: "papayawhip"
-        image:
-          # Add your image background to `assets/media/`.
-          # filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+    # design:
+    #   css_class: dark
+    #   text_color: "black"      # ← 여기서 텍스트 색상을 black 으로 설정
+    #   background:
+    #     color: "papayawhip"
+    #     image:
+    #       # Add your image background to `assets/media/`.
+    #       # filename: stacked-peaks.svg
+    #       filters:
+    #         brightness: 1.0
+    #       size: cover
+    #       position: center
+    #       parallax: false
 
   # - block: markdown
   #   content:
