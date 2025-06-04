@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "black"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: "blue"
+        color: "papayawhip"
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
