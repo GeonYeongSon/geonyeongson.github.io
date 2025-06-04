@@ -6,7 +6,7 @@ title: "ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Pra
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jaeyoung Lee
-  - Geonyeong Son
+  - "**Geonyeong Son**"
   - Misuk Kim
 
 # # Author notes (optional)

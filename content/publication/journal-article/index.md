@@ -1,7 +1,7 @@
 ---
 title: "A simple and efficient dialogue generation model incorporating commonsense knowledge"
 authors:
-- Geonyeong Son
+- "**Geonyeong Son**"
 - Misuk Kim
 author_notes:
 # - "Equal contribution"
