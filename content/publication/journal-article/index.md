@@ -1,42 +1,4 @@
 ---
-title: "Journal Publications"   # 페이지 제목
-date: "2024-01-01T00:00:00Z"
-draft: false
-
-# ──────────────────────────────────────
-# 테마에서 지원하는 “여러 논문을 한 배열에 나열”하는 방식 예시
-# (Hugo Blox v5 이하 Academic 테마에서는 `publications:`;
-# v6 이상 Wowchemy 기반에서는 `papers:` 등일 수 있으니 문서 확인)
-publications:
-  - title: "A simple and efficient dialogue generation model incorporating commonsense knowledge"
-    authors:
-      - admin
-      - Misuk Kim
-    author_notes: []
-    date: "2024-06-01T00:00:00Z"
-    doi: ""
-    publication_types: ["article-journal"]
-    publication: "Expert Systems with Applications, Vol. 249, Part B, pp. 123584. DOI: 10.1016/j.eswa.2024.123584. (Q1)"
-    publication_short: ""
-    url_pdf: "https://www.sciencedirect.com/science/article/pii/S095070512500591X"
-    slides: example
-
-  - title: "Multi-level prompting: Enhancing model performance through hierarchical instruction integration"
-    authors:
-      - admin
-      - Misuk Kim
-    author_notes: []
-    date: "2025-06-01T00:00:00Z"
-    doi: ""
-    publication_types: ["article-journal"]
-    publication: "Knowledge-Based Systems, Vol. 320, (in press), pp. 113545. DOI: 10.1016/j.knosys.2025.113545. (Q1)"
-    publication_short: ""
-    url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S095070512500591X"
-    slides: example
----
-
-
-<!-- ---
 title: "A simple and efficient dialogue generation model incorporating commonsense knowledge"
 authors:
 - admin
@@ -117,7 +79,7 @@ publication_types: ["article-journal"]
 publication: "Knowledge-Based Systems, Vol. 320, (in press), pp. 113545. DOI: 10.1016/j.knosys.2025.113545. (Q1)"
 # publication_short: ""
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S095070512500591X
---- -->
+---
 
 
 
