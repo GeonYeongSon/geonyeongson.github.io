@@ -2,7 +2,7 @@
 title: "Data Transformation Strategies to Remove Heterogeneity / submitted paper"
 authors:
 - admin
-date: "2025"
+date: "2025-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
