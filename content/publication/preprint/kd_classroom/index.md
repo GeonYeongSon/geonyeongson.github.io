@@ -1,7 +1,8 @@
----
-title: "Data Transformation Strategies to Remove Heterogeneity / submitted paper"
+<!-- ---
+title: "RTKD: Responsive Teacher Knowledge Distillation with Heterogeneous Students / submitted paper"
 authors:
 - admin
+- Misuk Kim
 date: "2025-06-01T00:00:00Z"
 doi: ""
 
@@ -11,10 +12,10 @@ doi: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Computing Surveys"
+publication: In Findings of the Association for Computational Linguistics - EMNLP 2025
 # publication_short: ""
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -30,7 +31,7 @@ publication: "ACM Computing Surveys"
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -68,4 +69,4 @@ This work is driven by the results in my [previous paper](/publication/conferenc
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
