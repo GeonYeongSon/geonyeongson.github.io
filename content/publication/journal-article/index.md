@@ -34,7 +34,7 @@ publication: "Expert Systems with Applications, Vol. 249, Part B, pp. 123584. DO
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S095070512500591X
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417424004494?via%3Dihub
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
