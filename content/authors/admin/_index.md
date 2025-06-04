@@ -9,9 +9,9 @@ title: Geonyeong Son
 first_name: Geonyeong
 last_name: Son
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -143,4 +143,4 @@ awards:
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 I am a master student at Hanyang University, working with Prof. Misuk Kim. I completed my B.S. at Sejong University, advised Prof. Misuk Kim. 
 My                        
-My research interests include include Computational Linguistics, Human-like language understanding, and Learning from language.
+My research interests include include Computational Linguistics, Commonsense Reasoning, Human-like language understanding, and Learning from language.
