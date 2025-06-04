@@ -5,6 +5,8 @@
 
 # Website name
 title: Geonyeong Son
+params:
+  favicon: "content/authors/admin/avatar.jpg"
 # Website URL
 baseURL: 'https://example.com/'
 
