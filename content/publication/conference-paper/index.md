@@ -1,5 +1,5 @@
 ---
-title: 'ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases'
+title: "ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
