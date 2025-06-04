@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      image: "content/authors/admin/avatar.jpg"" 
+      image: "/workspaces/geonyeongson.github.io/content/authors/admin/avatar.jpg" 
       text: "Geonyeong Son"
  
 # Site footer
