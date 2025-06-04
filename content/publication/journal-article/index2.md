@@ -1,12 +1,12 @@
 ---
-title: "A simple and efficient dialogue generation model incorporating commonsense knowledge"
+title: "Multi-level prompting: Enhancing model performance through hierarchical instruction integration"
 authors:
 - admin
 - Misuk Kim
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2024-06-01T00:00:00Z"
+date: "2025-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Expert Systems with Applications, Vol. 249, Part B, pp. 123584. DOI: 10.1016/j.eswa.2024.123584. (Q1)"
+publication: "Knowledge-Based Systems, Vol. 320, (in press), pp. 113545. DOI: 10.1016/j.knosys.2025.113545. (Q1)"
 publication_short: ""
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -34,7 +34,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S095070512500591X
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S095070512500591X
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
@@ -64,6 +64,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S095070512500591X
 # #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
 
 
 
