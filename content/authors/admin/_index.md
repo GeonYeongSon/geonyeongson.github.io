@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/geonyeong-son-14b476369/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=lZSy3wMAAAAJ&hl=ko
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/0000-0003-0454-0736
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-0454-0736
     
 interests:
   - Natural Language Processing
