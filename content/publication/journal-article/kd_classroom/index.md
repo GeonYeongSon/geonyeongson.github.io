@@ -30,8 +30,8 @@ publication: Knoweldge-Based Systems
 
 # links:
 # - name: Custom Link
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0950705126008270
-# url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0950705126008270
+#   url: https://www.sciencedirect.com/science/article/abs/pii/S0950705126008270
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0950705126008270
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
