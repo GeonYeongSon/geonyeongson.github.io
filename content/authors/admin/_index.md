@@ -11,7 +11,7 @@ last_name: Son
 
 # # Status emoji
 # status:
-#   icon: ☕️
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,8 +55,8 @@ interests:
 education:
   - area: MS Data Science
     institution: Hanyang University
-    date_start: 2024-03-00
-    date_end: 2026-02-00
+    date_start: 2024-03-01
+    date_end: 2026-02-01
   #   summary: |
   #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   #   button:
@@ -64,8 +64,8 @@ education:
   #     url: 'https://example.com'
   - area: BS Data Science
     institution: Sejong University
-    date_start: 2017-03-00
-    date_end: 2023-02-00
+    date_start: 2017-03-01
+    date_end: 2023-02-01
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -78,7 +78,7 @@ work:
     company_name: Gravylab
     company_url: ''
     company_logo: ''
-    date_start: 2026-04-00
+    date_start: 2026-04-01
     date_end: ''
     # summary: |2-
     #   Responsibilities include:
@@ -120,7 +120,7 @@ languages:
 awards:
   - title: Excellence Award, Undergraduate Student Paper Competition, KCC 2022
     url: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11113829
-    date: '2022-06-00'
+    date: '2022-06-01'
     awarder: Korean Institute of Information Scientists and Engineers (KIISE)
     icon: AI
     summary: |
