@@ -55,8 +55,8 @@ interests:
 education:
   - area: MS Data Science
     institution: Hanyang University
-    date_start: 2024-03
-    date_end: 2026-02
+    date_start: 2024-03-00
+    date_end: 2026-02-00
   #   summary: |
   #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   #   button:
@@ -64,8 +64,8 @@ education:
   #     url: 'https://example.com'
   - area: BS Data Science
     institution: Sejong University
-    date_start: 2017-03
-    date_end: 2023-02
+    date_start: 2017-03-00
+    date_end: 2023-02-00
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -78,7 +78,7 @@ work:
     company_name: Gravylab
     company_url: ''
     company_logo: ''
-    date_start: 2026-04
+    date_start: 2026-04-00
     date_end: ''
     # summary: |2-
     #   Responsibilities include:
@@ -120,7 +120,7 @@ languages:
 awards:
   - title: Excellence Award, Undergraduate Student Paper Competition, KCC 2022
     url: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11113829
-    date: '2022-06'
+    date: '2022-06-00'
     awarder: Korean Institute of Information Scientists and Engineers (KIISE)
     icon: AI
     summary: |
