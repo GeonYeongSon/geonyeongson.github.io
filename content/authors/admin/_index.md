@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+role: AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -87,7 +87,7 @@ work:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
-Skills
+Skills:
 Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
