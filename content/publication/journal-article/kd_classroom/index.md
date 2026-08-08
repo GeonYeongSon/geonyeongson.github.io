@@ -1,7 +1,7 @@
 ---
 title: "RTKD: Responsive Teacher Knowledge Distillation with heterogeneous students"
 authors:
-- Geonyeong Son
+- admin
 - Misuk Kim
 date: "2025-06-01T00:00:00Z"
 doi: ""
