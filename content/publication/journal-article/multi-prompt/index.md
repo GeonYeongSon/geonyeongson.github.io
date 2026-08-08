@@ -11,7 +11,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Knowledge-Based Systems, Vol. 320, (in press), pp. 113545. DOI: 10.1016/j.knosys.2025.113545. (Q1)"
+publication: "Knowledge-Based Systems, Vol. 320, 113545. DOI: 10.1016/j.knosys.2025.113545. (Q1, Impact Factor: 7.2)"
 # publication_short: ""
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S095070512500591X
 ---
