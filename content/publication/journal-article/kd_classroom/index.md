@@ -4,6 +4,8 @@ authors:
 - admin
 - Misuk Kim
 date: "2026-06-01T00:00:00Z"
+tags:
+  - '2026'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

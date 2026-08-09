@@ -15,6 +15,8 @@ authors:
 #   - 'Equal contribution'
 
 date: "2024-06-01T00:00:00Z"
+tags:
+  - '2024'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
