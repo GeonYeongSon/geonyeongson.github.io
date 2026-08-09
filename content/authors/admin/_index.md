@@ -62,12 +62,18 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
+  - area: MS Data Science
+    institution: Sejong University
+    date_start: 2023-03-01
+    date_end: 2024-02-01
+    summary: |
+      Transferred to Hanyang University with my advisor.
   - area: BS Data Science
     institution: Sejong University
     date_start: 2017-03-01
     date_end: 2023-02-01
-    # summary: |
-    #   GPA: 3.4/4.0
+    summary: |
+      Leave of absence for military service (Dec 2017 - Aug 2019).
       
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
