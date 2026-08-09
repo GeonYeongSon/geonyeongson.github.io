@@ -1,10 +1,10 @@
 {{ $item := .item }}
 {{ $resource := partial "functions/get_featured_image.html" $item }}
-<article class="grid grid-cols-1 gap-6 border-b border-gray-200 py-10 md:grid-cols-[260px_minmax(0,1fr)] md:gap-10 dark:border-gray-700">
+<article class="grid grid-cols-1 gap-6 border-b border-gray-200 py-10 md:grid-cols-[360px_minmax(0,1fr)] md:gap-10 dark:border-gray-700">
   <div class="flex items-start justify-center">
     {{ with $resource }}
     {{ $image := .Fit "520x300 Center" }}
-    <img class="max-h-48 w-full object-contain" src="{{ $image.RelPermalink }}" alt="Architecture figure for {{ $item.Title | plainify }}" loading="lazy">
+    <img class="max-h-56 w-full object-contain" src="{{ $image.RelPermalink }}" alt="Architecture figure for {{ $item.Title | plainify }}" loading="lazy">
     {{ end }}
   </div>
   <div>
