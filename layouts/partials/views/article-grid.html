@@ -1,0 +1,25 @@
+{{ $item := .item }}
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $link := $item.Params.external_link | default $item.RelPermalink }}
+{{ $target := cond $item.Params.external_link `target="_blank" rel="noopener"` `` }}
+
+<div class="group cursor-pointer">
+  {{ with $resource }}
+  {{ $image := .Fit "960x540 Center" }}
+  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
+    <a class="relative block aspect-video" href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+      <img alt="{{ $item.Title | plainify }}" class="object-contain transition-all" decoding="async" loading="lazy" src="{{ $image.RelPermalink }}" style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;" width="{{ $image.Width }}" height="{{ $image.Height }}">
+    </a>
+  </div>
+  {{ end }}
+  <h2 class="text-lg font-semibold leading-snug tracking-tight mt-4 dark:text-white">
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  </h2>
+  <p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400">{{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp }}</p>
+  {{ with $item.Params.date_start }}
+  {{ $start := time . | time.Format "Jan 2006" }}
+  {{ $end := "Present" }}
+  {{ with $item.Params.date_end }}{{ $end = time . | time.Format "Jan 2006" }}{{ end }}
+  <p class="mt-3 text-sm text-gray-500 dark:text-gray-400">{{ $start }} - {{ $end }}</p>
+  {{ end }}
+</div>
