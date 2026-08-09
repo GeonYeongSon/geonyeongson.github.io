@@ -96,21 +96,21 @@ skills:
         # description: ''
         # percent: 80
         icon: code-bracket
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Soccer
-        description: ''
-        # percent: 60
-        icon: football
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Soccer
+  #       description: ''
+  #       # percent: 60
+  #       icon: football
 
 
-languages:
-  - name: Korean
-    # percent: 100
-  - name: English
-    # percent: 50
+# languages:
+#   - name: Korean
+#     # percent: 100
+#   - name: English
+#     # percent: 50
 
 
 # Awards.
