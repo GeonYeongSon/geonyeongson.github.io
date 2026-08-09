@@ -1,0 +1,16 @@
+{{ $item := .item }}
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+<article class="grid grid-cols-1 gap-6 border-b border-gray-200 py-10 md:grid-cols-[260px_minmax(0,1fr)] md:gap-10 dark:border-gray-700">
+  <div class="flex items-start justify-center">
+    {{ with $resource }}
+    {{ $image := .Fit "520x300 Center" }}
+    <img class="max-h-48 w-full object-contain" src="{{ $image.RelPermalink }}" alt="Architecture figure for {{ $item.Title | plainify }}" loading="lazy">
+    {{ end }}
+  </div>
+  <div>
+    {{ with $item.Params.publication }}<p class="mb-3 text-lg font-semibold text-primary-700 dark:text-primary-300">{{ . | markdownify }}</p>{{ end }}
+    <h2 class="text-2xl font-bold leading-tight text-gray-900 dark:text-white"><a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a></h2>
+    <p class="mt-4 text-base text-gray-600 dark:text-gray-300">{{ partial "page_metadata_authors" $item }}</p>
+    {{ with $item.Params.url_pdf }}<p class="mt-5"><a class="font-semibold text-primary-700 underline dark:text-primary-300" href="{{ . }}">[PDF]</a></p>{{ end }}
+  </div>
+</article>

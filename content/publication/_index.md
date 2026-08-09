@@ -10,6 +10,7 @@ sections:
     content:
       title: '2026'
       filters:
+        page_type: publication
         tag: '2026'
     design:
       view: citation
@@ -17,6 +18,7 @@ sections:
     content:
       title: '2025'
       filters:
+        page_type: publication
         tag: '2025'
     design:
       view: citation
@@ -24,6 +26,7 @@ sections:
     content:
       title: '2024'
       filters:
+        page_type: publication
         tag: '2024'
     design:
       view: citation
@@ -31,6 +34,7 @@ sections:
     content:
       title: '2023'
       filters:
+        page_type: publication
         tag: '2023'
     design:
       view: citation
@@ -38,6 +42,7 @@ sections:
     content:
       title: '2022'
       filters:
+        page_type: publication
         tag: '2022'
     design:
       view: citation
