@@ -33,4 +33,22 @@ sections:
         tag: '2024'
     design:
       view: citation
+  - block: collection
+    content:
+      title: '2023'
+      filters:
+        folders:
+          - publication
+        tag: '2023'
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: '2022'
+      filters:
+        folders:
+          - publication
+        tag: '2022'
+    design:
+      view: citation
 ---
