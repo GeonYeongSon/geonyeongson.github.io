@@ -5,8 +5,8 @@ date_start: 2024-04-01
 date_end: 2026-02-01
 # external_link: ''
 tags:
-  - No-Code Platform
-  - Natural Language Processing
+  - Query-Intent Classifier
+  - Categorized User Requests
   - Public-Sector Project
 ---
 

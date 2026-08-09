@@ -5,9 +5,9 @@ date_start: 2024-04-01
 date_end: 2024-10-01
 # external_link: ''
 tags:
-  - Retrieval-Augmented Generation
-  - Question Answering
-  - Insurance Documents
+  - Adaptive Retrieval-Augmented Generation
+  - Strategies Classification
+  - Corporate Project
 ---
 
 Developed an adaptive RAG framework that selected chunking, embedding, and retrieval strategies for each question-answering task over insurance product documents.
