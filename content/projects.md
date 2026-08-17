@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: Projects that I attended from my academic research and industry experience.
+      text: Projects that I attended from academic research and industry experience.
       filters:
         folders:
           - project
