@@ -102,14 +102,14 @@ skills:
         # description: ''
         # percent: 80
         icon: code-bracket
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Soccer
-        description: ''
-        # percent: 60
-        icon: football
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Soccer
+  #       description: ''
+  #       # percent: 60
+  #       icon: football
 
 
 # languages:
@@ -128,7 +128,7 @@ awards:
     url: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11113829
     date: '2022-06-01'
     awarder: Korean Institute of Information Scientists and Engineers (KIISE)
-    icon: AI
+    # icon: AI
     summary: |
       Paper : Dialogue Generator with Commonsense based on KoBART
 
