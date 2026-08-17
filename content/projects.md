@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: Selected projects from my academic research and industry experience.
+      title: Projects
+      text: Projects that I attended from my academic research and industry experience.
       filters:
         folders:
           - project
