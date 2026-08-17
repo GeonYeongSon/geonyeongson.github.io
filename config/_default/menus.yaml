@@ -23,6 +23,9 @@ main:
   - name: Projects
     url: projects/
     weight: 40
+  - name: Post
+    url: post/
+    weight: 50
   # - name: Honors
   #   url: experience/
   #   weight: 20
