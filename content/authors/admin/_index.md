@@ -48,9 +48,9 @@ profiles:
     
 interests:
   - Natural Language Processing
-  - Knowledge and Experience Curation
-  - Human-like Language Understanding
-  - Interactive Learning and Teaching
+  - Knowledge and Experience Curation, Transformation, and Reuse
+  - Human-Inspired Learning and Reasoning
+  - Interactive Learning and Self-Improvement
 
 education:
   - area: MS Data Science
@@ -137,4 +137,4 @@ awards:
 ## About Me
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-I am a master student at Hanyang University, working with [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). I completed my B.S. at Sejong University, advised [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). My research focuses on advancing maturity-inspired AI models and techniques to build systems that think, understand, and learn like humans—specifically through structuring knowledge and experience curation, developing human-like language understanding, and providing interactive learning and teaching.   
+I am a master student at Hanyang University, working with [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). I completed my B.S. at Sejong University, advised [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). My research focuses on advancing maturity-inspired AI models and techniques that enable systems to curate, transform, and reuse knowledge and experience, learn and reason in ways inspired by humans, and improve through interaction with dynamic environments.
