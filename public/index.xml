@@ -35,10 +35,7 @@
       <link>https://https://geonyeongson.github.io/project/smart-manufacturing/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://https://geonyeongson.github.io/project/smart-manufacturing/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Gravylab&lt;/strong&gt;&lt;br&gt;
-Apr 2026 - Present&lt;br&gt;
-MAFRA | Government Project&lt;/p&gt;
-&lt;p&gt;Architecting a novel data-driven recipe generation and menu planning framework by integrating diverse ingredient substitutions and nutrition calculation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Architecting a novel data-driven recipe generation and menu planning framework by integrating diverse ingredient substitutions and nutrition calculation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -418,7 +415,7 @@ MAFRA | Government Project&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-649283517&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-375294861&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -436,7 +433,7 @@ MAFRA | Government Project&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-649283517&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-375294861&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
