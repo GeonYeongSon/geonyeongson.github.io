@@ -10,6 +10,10 @@ tags:
   - Government Project
 ---
 
-Architected a data-driven recipe generation and menu planning framework for customized foods by integrating diverse ingredient substitutions and nutrition calculation.
+**Gravylab**  
+Apr 2026 - Present  
+MAFRA | Government Project
+
+Architecting a novel data-driven recipe generation and menu planning framework by integrating diverse ingredient substitutions and nutrition calculation.
 
 <!--more-->

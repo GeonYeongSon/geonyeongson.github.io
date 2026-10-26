@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Researcher
+role: AI Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Hanyang University (IDSL Lab.)
-    url: https://idsl.hanyang.ac.kr/
+  - name: Gravylab 
+    # url: https://idsl.hanyang.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,7 +48,7 @@ profiles:
     
 interests:
   - Natural Language Processing
-  - Knowledge and Experience Curation, Transformation, and Reuse
+  - Knowledge and Experience Curation
   - Human-Inspired Learning and Reasoning
   - Interactive Learning and Self-Improvement
 
@@ -80,7 +80,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Associate Researcher
+  - position: AI Research Associate
     company_name: Gravylab
     company_url: ''
     company_logo: ''
@@ -137,4 +137,4 @@ awards:
 ## About Me 
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-I am a master student at Hanyang University, working with [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). I completed my B.S. at Sejong University, advised [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). My research focuses on advancing maturity-inspired AI models and techniques that enable systems to curate, transform, and reuse knowledge and experience, learn and reason in ways inspired by humans, and improve through interaction with dynamic environments.
+I am a master student at Hanyang University, working with [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). I completed my B.S. at Sejong University, advised [Prof. Misuk Kim](https://idsl.hanyang.ac.kr/members/professor). My research focuses on Developing AI inspired by human maturation, with a focus on knowledge and experience curation, human-inspired learning and reasoning, and interactive self-improvement.
